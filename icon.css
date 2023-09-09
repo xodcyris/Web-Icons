@@ -1,0 +1,83 @@
+.fa-youtube{
+    
+    color: red;
+    
+}
+
+.fa-facebook{
+    color: #1877F2;
+    
+
+}
+.fa-twitter{
+    color: #1DA1F2;
+}
+
+.fa-instagram{
+    color: #405DE6;
+}
+
+.fa-facebook:hover{
+    color: skyblue;
+}
+.fa-youtube:active{
+    color: aqua;
+}
+.fa-instagram:hover{
+    color: tomato;
+
+}
+.fa-twitter:hover{
+    color: crimson;
+}
+.fa-youtube:hover{
+    color: aqua;
+}
+.fa-apple:hover{
+    color: green;
+}
+
+.fa-amazon{
+    color: #FF9900;
+}
+.fa-amazon:hover{
+    color: blueviolet;
+}
+
+.fa-windows:hover{
+    color: red;
+}
+.fa-windows{
+    color:rgb(10, 183, 226)
+}
+
+.fa-telegram{
+    color: #229ED9;
+}
+
+.fa-apple{
+    color: #000000;
+}
+.fa-telegram:hover{
+    color: #FF9900;
+}
+
+
+.fa-cart-shopping{
+    color: #F7A200;
+}
+
+.fa-cart-shopping:hover{
+    color: rgba(137, 236, 7, 0.664);
+}
+
+.fa-whatsapp{
+    color: #25D366;
+}
+
+.fa-whatsapp:hover{
+    color: black;
+}
+
+
+
